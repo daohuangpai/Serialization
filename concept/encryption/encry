@@ -1,0 +1,6 @@
+#include <concept/encryption/encry.hpp>
+#include <concept/encryption/fixBufferEncry.hpp>
+#include <concept/encryption/lengthEncry.hpp>
+#include <concept/encryption/reflectorDataEncry.hpp>
+#include <concept/encryption/typeEncry.hpp>
+#include <concept/encryption/bufferEncry.hpp>
